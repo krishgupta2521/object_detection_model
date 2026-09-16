@@ -1,0 +1,28 @@
+Brackish YOLO26s — Task 1 Underwater Detection Demo
+==========================================================
+Input: fish8.jpg
+Image size: 542 x 360
+Image center: (271.00, 180.00)
+Confidence threshold: 0.25
+Detections: 2
+
+Detection 1
+  class: fish
+  confidence: 0.700
+  bbox: (298.5, 90.8, 480.4, 283.1)
+  centroid: (389.46, 186.96)
+  pixel error: (118.46, 6.96)
+  normalized error: (0.437, 0.039)
+  normalized x in [-1,1]: True
+  normalized y in [-1,1]: True
+
+Detection 2
+  class: fish
+  confidence: 0.690
+  bbox: (63.7, 92.1, 260.5, 286.5)
+  centroid: (162.10, 189.33)
+  pixel error: (-108.90, 9.33)
+  normalized error: (-0.402, 0.052)
+  normalized x in [-1,1]: True
+  normalized y in [-1,1]: True
+
